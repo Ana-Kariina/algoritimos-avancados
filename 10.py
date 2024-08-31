@@ -1,4 +1,5 @@
-#soma para carro
+#soma para carro novo
+
 porcentagem = 1.28
 imposto = 1.45  
 
